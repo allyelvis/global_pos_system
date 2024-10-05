@@ -1,0 +1,26 @@
+{
+  "name": "global_pos_system",
+  "version": "1.0.0",
+  "description": "global pos system",
+  "main": "pos_schema.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/global_pos_system.git"
+  },
+  "keywords": [
+    "pos"
+  ],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allyelvis/global_pos_system/issues"
+  },
+  "homepage": "https://github.com/allyelvis/global_pos_system#readme"
+}
